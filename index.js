@@ -6,7 +6,7 @@ function takeANumber(katzDeliLine) {
   
   ticket++
   
-    return `Welcome, you are number ${katzDeliLine.length} in line.`
+    return `Welcome, you are number ${ticket} in line.`
   
 }
 
