@@ -1,8 +1,10 @@
 const katzDeliLine = [];
-
-function takeANumber(katzDeliLine, name) {
+var ticket = 0
+function takeANumber(katzDeliLine) {
   
   katzDeliLine.push(name)
+  
+  ticket++
   
     return `Welcome, you are number ${katzDeliLine.length} in line.`
   
