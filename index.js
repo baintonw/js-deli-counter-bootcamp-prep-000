@@ -2,7 +2,7 @@ const katzDeliLine = [];
 var ticket = 0
 function takeANumber(katzDeliLine) {
   
-  katzDeliLine.push(name)
+  katzDeliLine.push(ticket)
   
   ticket++
   
