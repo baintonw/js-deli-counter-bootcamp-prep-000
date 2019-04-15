@@ -3,8 +3,8 @@ const katzDeliLine = [];
 function takeANumber(katzDeliLine, name) {
   
   katzDeliLine.push(name)
-  position = katzDeliLine.length
-    return `Welcome, ${name}. You are number ${katzDeliLine} in line.`
+  
+    return `Welcome, ${name}. You are number ${katzDeliLine.length} in line.`
   
 }
 
